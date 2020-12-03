@@ -1,0 +1,41 @@
+body{
+    background-color:#10deb5;
+}
+.heading{
+   height:102px;
+    width:100%;
+    background-color:white;
+   color:black;
+    float:none;
+    margin-top:0px;
+    top:0;
+    font-family: 'Poppins', sans-serif;
+   
+}
+.heading img{
+    height:75px;
+}
+#webcamview{
+    border:4px dotted white;
+    height:310;
+    width:300;
+    box-shadow:5px 5px 10.5px white
+}
+#capturedview{
+    border:4px dotted white;
+    height:310;
+    width:300;
+    box-shadow:5px 5px 10.5px white
+}
+.viewport label{
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    font-size:25.5px;
+    
+}
+.viewport{
+    
+    border: 3.5678px dotted white;
+    background-color:#4bd69e;
+   
+}
